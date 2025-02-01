@@ -29,5 +29,5 @@ else
   npm install
   npm run build
 
-  cd ..
+  cd .
 fi
